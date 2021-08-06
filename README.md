@@ -38,5 +38,5 @@ If you find any issues with the extension or want to suggest new features, pleas
 ---
 
 ## Screenshots
-![Sidebar visible](/images/Screenshot_sidebar.png)
-![Sidebar hidden](/images/Screenshot_hidden.png)
+![Sidebar visible](/screenshots/Screenshot_sidebar.png)
+![Sidebar hidden](/screenshots/Screenshot_hidden.png)
