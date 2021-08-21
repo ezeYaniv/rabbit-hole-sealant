@@ -1,5 +1,3 @@
-// chrome-extension://pjmffggplbkclgdbgdemcjhdfbnbobna/assets/popup/popup.html
-
 // Adds a change listener to each popup option to update chrome.storage object.
 let checkboxes = Array.from(document.querySelectorAll('input[type=checkbox]'));
 checkboxes.forEach((box) => {

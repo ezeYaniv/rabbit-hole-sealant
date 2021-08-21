@@ -30,7 +30,7 @@ Local installation workaround:
 ### Technologies Applied & Skills Learned
 * ES6 Promises
 * Chrome Storage API methods (set/get)
-* Manifest V3, Google's latest major update to the extension platform
+* Manifest v3, Google's latest major update to the extension platform
 
 ### Issues & Bugs
 If you find any issues with the extension or want to suggest new features, please submit an issue in this repo's [Issues](url) tab.
